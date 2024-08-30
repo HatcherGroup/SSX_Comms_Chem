@@ -1,2 +1,2 @@
-# SSX_Comms_Chem
-Scripts for SSX Comms Chem
+# Hatcher_Group
+Scripts produced by the research group of Lauren Hatcher
